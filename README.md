@@ -26,4 +26,4 @@ Download "VibeCare Windows Demo.zip", unzip the folder, and run VibeCare.exe to 
 
 https://devpost.com/software/vibe-care
 </br>
-https://yebrandon.com/projects
+https://yebrandon.com#projects
